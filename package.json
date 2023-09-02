@@ -1,0 +1,38 @@
+{
+  "name": "teamup",
+  "version": "0.0.1",
+  "description": "Discord bot for finding videogames teammates.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azator-Entertainment/TeamUP.git"
+  },
+  "keywords": [
+    "discord-bot",
+    "discord",
+    "bot",
+    "chatbot",
+    "videogames",
+    "csgo",
+    "matchup"
+  ],
+  "author": "PetyXbron",
+  "license": "CC-BY-NC-ND-4.0",
+  "bugs": {
+    "url": "https://github.com/Azator-Entertainment/TeamUP/issues"
+  },
+  "homepage": "https://github.com/Azator-Entertainment/TeamUP/issues",
+  "engines": {
+    "node": ">=16.11.0"
+  },
+  "dependencies": {
+    "ascii-art": "^2.8.5",
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1",
+    "fs": "^0.0.1-security"
+  }
+}
