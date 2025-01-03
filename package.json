@@ -1,6 +1,6 @@
 {
   "name": "teamup",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Discord bot for finding videogames teammates.",
   "type": "module",
   "main": "index.js",
@@ -25,7 +25,7 @@
   "bugs": {
     "url": "https://github.com/Azator-Entertainment/TeamUP/issues"
   },
-  "homepage": "https://github.com/Azator-Entertainment/TeamUP/issues",
+  "homepage": "https://github.com/Azator-Entertainment/TeamUP",
   "engines": {
     "node": ">=16.11.0"
   },
